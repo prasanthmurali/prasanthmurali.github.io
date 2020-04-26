@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Design Study "Lite" Methodology: Expediting Design Studies and Enabling the Synergy of Visualization Pedagogy and Social Good. <p>
+	Authors: Uzma Syeda, Prasanth Murali, Lisa Roe, Becca Berkey, Michelle Borkin(<b>Best Paper Award at CHI 2020</b>"
+venue: 'ACM CHI Conference on Human Factors in Computing Systems is the premier international conference of Human-Computer Interaction 2020'
+paperurl: 'files/DSLM.pdf'
+citation: 'Syeda, U. H., Murali, P., Roe, L., Berkey, B., & Borkin, M. (2020, February 12). Design Study "Lite" Methodology: Expediting Design Studies and Enabling the Synergy of Visualization Pedagogy and Social Good. https://doi.org/10.31219/osf.io/mghj3'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://osf.io/mghj3/)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Syeda, U. H., Murali, P., Roe, L., Berkey, B., & Borkin, M. (2020, February 12). Design Study "Lite" Methodology: Expediting Design Studies and Enabling the Synergy of Visualization Pedagogy and Social Good. https://doi.org/10.31219/osf.io/mghj3

@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Prasanth Murali"
-  avatar           : "profile.jpg"
-  bio              : "(A+HC)I researcher"
+  avatar           : "prasanth.png"
+  bio              : "Ph.D. Student in Computer Science, AI|HCI researcher"
   location         : "Boston, MA"
-  employer         : "Northeastern University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gZDc-aoAAAAJ&hl=en&authuser=1"
   email            : "murali.pr@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -99,11 +99,11 @@ author:
   github           : "prasanthmurali"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "reviewerno.2"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
